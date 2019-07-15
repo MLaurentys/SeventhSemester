@@ -2,7 +2,7 @@
 ### Summary
 I consider that I learned four important lessons in this class. 
 1. I learned basic vocabulary 
-2. I learned techniques to solver graph theory problems 
+2. I learned techniques to solve graph theory problems 
 3. I learned how to translate some general problems to graph problems 
 4. I learned several important algorithms 
 
